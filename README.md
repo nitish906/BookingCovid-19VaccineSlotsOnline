@@ -148,7 +148,8 @@
 <img src="https://github.com/shivamgarg796/Spring-work/blob/master/Images/mODELS.png?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ---
-<h1 align="center">Thank You</h1>
+<img src="https://github.com/nitish906/BookingCovid-19VaccineSlotsOnline/blob/main/Thankyou.jpg?raw=true" style="max-width: 200%; align: center; display: inline-block;" data-target="animated-image.originalImage">
+
 
 
 
