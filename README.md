@@ -98,8 +98,6 @@
    
 ```
 
-## Video Explainer of flow control
- <a href="https://drive.google.com/file/d/1ReDNdgIxdSNcn7WsV2ysIHeXEnkgZErw/view?usp=sharing">**Video Drive Link** </a>
  
  
 ### E-R Diagram Of Covid-19 Application
